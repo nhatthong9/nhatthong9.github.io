@@ -66,6 +66,8 @@ $('#no').mousemove(function() {
         switchButton();
     if (n > 1)
         moveButton();
+    if(n == 5)
+        $('#no').hide();
     n++;
 });
 $('#no').click(() => {
