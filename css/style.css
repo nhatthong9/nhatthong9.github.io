@@ -5,14 +5,14 @@
   #no{
     position: absolute;
     display: inline-block;
-    left: 30%; 
+    left: 32%; 
     top: 40vh;
     -webkit-transition: all 0.1s ease-out;
   }
   #yes{
     position: absolute;
     display: inline-block;
-    right: 30%; 
+    left: 55%; 
     top: 40vh;
     -webkit-transition: all 0.3s ease-out;
   }
